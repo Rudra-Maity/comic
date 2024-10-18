@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "670fc56b641997c1a0e5837e"
+  },
+  "bookName": "xnxx",
+  "authorName": "rudra@gmail.com",
+  "yearOfPublication": 2024,
+  "price": 300,
+  "discount": 10.5,
+  "numberOfPages": 234,
+  "condition": "new",
+  "description": "jdksadjlkdj lkjl dsfdsf qdsad  ",
+  "createdAt": {
+    "$date": "2024-10-16T13:53:47.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T13:53:47.126Z"
+  },
+  "__v": 0
+}]
